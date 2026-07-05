@@ -1,4 +1,4 @@
-**AI- Research Paper Analysis and Semantic Search using NLP & Transformers**
+****AI-Based Research Paper Analysis and Semantic Search using NLP & Transformers**
 
 ## Project Overview
 
